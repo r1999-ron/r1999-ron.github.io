@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ronak Sengupta</title>
+    <link>https://r1999-ron.github.io/post/</link>
+    <description>Recent content in Projects on Ronak Sengupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://r1999-ron.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Spam Mail Detector</title>
+      <link>https://r1999-ron.github.io/post/chapter-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://r1999-ron.github.io/post/chapter-1/</guid>
+      <description>Created a tool that detect spam mails becuase spam has been a major problem in day-to-day lifes of a customer. Naive Bayes classifier algorithm has been used on the context classification of each email, with a strong assumption that the words included in the email are independent of each other. Built a client facing API using Flask.    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

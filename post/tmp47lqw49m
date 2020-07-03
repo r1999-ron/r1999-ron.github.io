@@ -1,0 +1,15 @@
+---
+date: 2020-04-09T10:58:08-04:00
+description: "A tool that detects spam mails"
+featured_image: "/images/background.jpg"
+
+title: "Project 1: Spam Mail Detector"
+---
+
+* Created a tool that detect spam mails becuase spam has been a major problem in day-to-day lifes of a customer.
+* Naive Bayes classifier algorithm has been used on the context classification of each email, with a strong assumption that the words included in the email are independent of each other.
+* Built a client facing API using Flask.
+
+{{< figure src="/images/spam.jpg">}}
+
+[Link to GitHub Repository](https://github.com/r1999-ron/ML_Flask_SpamDetector)
